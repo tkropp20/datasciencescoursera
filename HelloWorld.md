@@ -1,3 +1,3 @@
 ## This is a markdown file
 
-## Practicing a commit 2
+## Practicing a commit 3
