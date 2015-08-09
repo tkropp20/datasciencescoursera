@@ -1,3 +1,6 @@
 ## This is a markdown file
 
-## Practicing a commit 4 branch
+### Practicing markdown tertiary heading
+
+* list 1
+* list 2
